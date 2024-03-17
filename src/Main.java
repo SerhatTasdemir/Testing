@@ -14,7 +14,7 @@ public class Main {
 
         System.out.print("Type a double number : ");
         double x = Double.readDouble();
-        System.out.println("The number is " + x);
+        System.out.println("The numbe " + x);
 
 
 
