@@ -1,9 +1,9 @@
 import java.io.*;
 
-public class Intreader {
+public class IntReader {
 
 
-    public static int readInt() {
+    public int readInt() {
         int i = 0;
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         try {
@@ -18,6 +18,5 @@ public class Intreader {
         return i;
 
     }
-
 }
 

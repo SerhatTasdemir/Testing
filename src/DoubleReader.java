@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class DoubleReader {
-    public static double readDouble() {
+    public double readDouble() {
         double i = 0;
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         try {
